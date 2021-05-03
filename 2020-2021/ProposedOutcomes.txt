@@ -1,0 +1,23 @@
+Ability to create well-designed solutions to computing problems by analyzing needs, evaluating and creating efficient designs and implementing solutions. 
+Ability to produce computing problem solutions within collaborative teams and clearly communicate technical ideas and concepts to others. 
+Ability to utilize state-of-the-art techniques, skills and tools needed to operate and solve problems on technical teams. 
+ Ability to learn and utilize new technologies and skills through self-directed learning. 
+
+Thanks very much for pulling all of this information together so quickly.
+
+I think it looks great and is exactly what we're looking for. I shared it with Toby, and he agrees. Indeed, he wanted me to emphasize how much he appreciates your hard work.
+
+He would like the competitive market analysis to also include Carthage College, Carroll College, Marquette, and Rockford. Thanks, in advance, for adding this information into the document.
+
+Toby and I brainstormed some basic programmatic learning outcomes: knowledge of hardware, knowledge of software, knowledge of a disciplinary field, and ability to work collaboratively in teams.  Thoughts? Would you add or substitute?
+
+Thanks,
+
+
+oby and I had a chance to chat about your proposed learning outcomes, and we are thinking something along the lines of:
+
+Create and evaluate applied solutions to computing problems
+Develop competency in a specialized area of computer science.
+Successfully function in teams utilizing state-of-the-art tools and skills.
+Engage in self-directed learning to employ new technologies and skills appropriate to the field of computer science.
+Also, on your competitive market analysis, can you confirm what IBU is? Benedictine?
