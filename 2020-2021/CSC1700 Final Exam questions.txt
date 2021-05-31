@@ -1,0 +1,23 @@
+
+CSC 1700 01 20FA - 25 MC + a programming question using dictionaries. 
+CSC 1700 02 20FA - 20 'A's and 2 'B' 35 MC questions - Sales commission is based on total sales amount and works as follows ... Write a program that asks the user to enter a series of 20 numbers .The program should store the numbers in a list and display the following:(10 points)
+The lowest number in the list
+The highest number in the list
+The total of the numbers in the list.
+The average of the numbers in the list.
+
+CSC 1700 01 21SP - 2 parts - 33 Multiple choice questions - Programming question take home
+	Write a program to:
+–Read in the data in the file sales.csv that’s in Moodle
+–Set up the appropriate classes/attributes/methods based on the situation in the last 7 slides of the week's final presentation
+–Assign definitions to each category
+–Build a main program to create the report outlined in slide 15 of the last presentation
+–Print out the report for all instances in the input file
+
+The output should consist of 128 lines/or sets of lines.  Each line should be in the format from slide 15 of the "Week 15 presentation".  
+The biggest challenge might be finding and printing out market share. 
+ As a "hint", the first output I get is (from my first 2 lines of 128 lines that were output):
+
+For the month of April , Charmin Bath Tissue within Jewel Food stores had sales of $ 68 in the Chicago market for a market share of 52
+For the month of April , Charmin Bath Tissue within Jewel Food stores had sales of $ 62 in the Chicago market for a market share of 47
+CSC 1700 02 21SP - 85 Multiple Choice questions - No programming
